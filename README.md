@@ -1,3 +1,3 @@
 # waynand
 
-https://github.com/wynand1004/Projects:[here](https://github.com/wynand1004/Projects)
+https://github.com/wynand1004/Projects
